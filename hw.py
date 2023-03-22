@@ -20,8 +20,6 @@ class FlatIterator:
         print(flat_list)
         return item
 
-flat_iterator = FlatIterator(list_of_list=[['a', 'b', 'c'],['d', 'e', 'f', 'h', False],[1, 2, None]])
-
 
 def test_1():
 
